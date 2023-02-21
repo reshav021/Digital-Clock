@@ -1,4 +1,4 @@
-# Digital-Clock
+# Digital Clock
 
 # https://reshav021.github.io/Digital-Clock/
 
